@@ -13,7 +13,7 @@
   "activationHooks": [
     "language-citron:grammar-used"
   ],
-  "repository": "",
+  "repository": "https://github.com/alimpfard/atom-citron-formatter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

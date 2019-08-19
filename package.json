@@ -1,0 +1,24 @@
+{
+  "name": "atom-citron-formatter",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Citron source code formatter for the Atom editor.",
+  "keywords": [
+    "citron",
+    "formatter"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-citron-formatter:format"
+  },
+  "activationHooks": [
+    "language-citron:grammar-used"
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "language-citron": ">=0.4.0"
+  }
+}

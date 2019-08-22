@@ -1,18 +1,12 @@
 {
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "Citron Formatter",
-          "submenu": [
-            {
-              "label": "Format",
-              "command": "atom-citron-formatter:format"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "Citron Formatter",
+      "submenu": [{
+        "label": "Format",
+        "command": "atom-citron-formatter:format"
+      }]
+    }]
+  }]
 }

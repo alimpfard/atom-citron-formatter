@@ -1,5 +1,5 @@
 {
   "atom-text-editor": {
-    "ctrl-alt-f": "atom-citron-formatter:format"
+    "ctrl-alt-space": "atom-citron-formatter:format"
   }
 }

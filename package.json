@@ -1,7 +1,7 @@
 {
   "name": "atom-citron-formatter",
   "main": "./lib/main",
-  "version": "0.0.3",
+  "version": "0.0.3-1",
   "description": "Citron source code formatter for the Atom editor.",
   "keywords": [
     "citron",
